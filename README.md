@@ -11,7 +11,7 @@ Track and visualize your LeetCode problem-solving progress over time. For some r
    ```
    git clone https://github.com/yourusername/leetcode-analytics.git
    cd leetcode-analytics
-   python -m venv .venv
+   python3 -m venv .venv
    source .venv/bin/activate  # On Windows: .venv\Scripts\activate
    ```
 
