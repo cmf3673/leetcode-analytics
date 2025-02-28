@@ -44,9 +44,3 @@ Note: Keep your auth.py private - it contains your LeetCode credentials.
    ```
 
 2. Open `chart.ipynb` and run all cells
-
-## Features
-
-- Fetches your solved LeetCode problems
-- Retrieves submission dates
-- Generates charts showing progress over time
